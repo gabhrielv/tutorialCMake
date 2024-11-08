@@ -1,0 +1,3 @@
+/home/jovyan/docs/source/code/day-1/00_hello-cxx/build/CMakeFiles/hello.dir
+/home/jovyan/docs/source/code/day-1/00_hello-cxx/build/CMakeFiles/edit_cache.dir
+/home/jovyan/docs/source/code/day-1/00_hello-cxx/build/CMakeFiles/rebuild_cache.dir
